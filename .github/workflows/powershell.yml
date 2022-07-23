@@ -40,6 +40,9 @@ jobs:
           # includeRule: '"PSAvoidGlobalAliases", "PSAvoidUsingConvertToSecureStringWithPlainText"'
           output: results.sarif
       
+      - name: Print results 
+        run: cat results.sarif
+      
       # Upload the SARIF file generated in the previous step
       - name: Upload SARIF results file
         uses: github/codeql-action/upload-sarif@v2
