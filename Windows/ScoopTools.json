@@ -1,0 +1,352 @@
+{
+    "apps": [
+        {
+            "Name": "7zip",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-02-27T08:33:50.3475354+01:00",
+            "Version": "21.07"
+        },
+        {
+            "Name": "7zip19.00-helper",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-15T09:59:19.6026221+02:00",
+            "Version": "19.00"
+        },
+        {
+            "Name": "act",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-05-19T21:23:11.2595004+02:00",
+            "Version": "0.2.26"
+        },
+        {
+            "Name": "aria2",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-09T21:45:39.2584513+02:00",
+            "Version": "1.36.0-1"
+        },
+        {
+            "Name": "cacert",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-05-01T13:14:06.0719821+02:00",
+            "Version": "2022-04-26"
+        },
+        {
+            "Name": "cmake",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-06-06T17:00:46.1094857+02:00",
+            "Version": "3.23.2"
+        },
+        {
+            "Name": "ctop",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-24T06:13:43.5067439+02:00",
+            "Version": "0.7.7"
+        },
+        {
+            "Name": "curl",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-06-06T17:00:47.7212574+02:00",
+            "Version": "7.83.1_3"
+        },
+        {
+            "Name": "docker",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-05-15T17:55:31.6919818+02:00",
+            "Version": "20.10.16"
+        },
+        {
+            "Name": "docker-compose",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-06-06T17:00:51.4562567+02:00",
+            "Version": "2.6.0"
+        },
+        {
+            "Name": "dotnet-sdk",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-05-15T17:56:47.9789349+02:00",
+            "Version": "6.0.300"
+        },
+        {
+            "Name": "fzf",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-10T00:36:20.9099608+02:00",
+            "Version": "0.30.0"
+        },
+        {
+            "Name": "gcloud",
+            "Source": "extras",
+            "Info": "",
+            "Updated": "2022-06-06T17:01:26.8296216+02:00",
+            "Version": "388.0.0"
+        },
+        {
+            "Name": "git",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-05-15T17:57:43.8679193+02:00",
+            "Version": "2.36.1.windows.1"
+        },
+        {
+            "Name": "googlechrome",
+            "Source": "extras",
+            "Info": "",
+            "Updated": "2022-06-06T17:01:44.9011057+02:00",
+            "Version": "102.0.5005.63"
+        },
+        {
+            "Name": "gradle",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-03T13:16:28.6192522+02:00",
+            "Version": "7.4.2"
+        },
+        {
+            "Name": "grep",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-02-27T08:51:33.3359763+01:00",
+            "Version": "3.7"
+        },
+        {
+            "Name": "kubectl",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-06-06T17:01:49.1931176+02:00",
+            "Version": "1.24.1"
+        },
+        {
+            "Name": "less",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-09T21:32:16.1072851+02:00",
+            "Version": "590"
+        },
+        {
+            "Name": "minikube",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-05-01T13:13:56.5804134+02:00",
+            "Version": "1.25.2"
+        },
+        {
+            "Name": "nano",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-05-01T13:15:02.0269707+02:00",
+            "Version": "6.3-7"
+        },
+        {
+            "Name": "ntop",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-24T06:14:29.6096225+02:00",
+            "Version": "0.3.4"
+        },
+        {
+            "Name": "nvm",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-22T22:19:46.4292909+02:00",
+            "Version": "1.1.9"
+        },
+        {
+            "Name": "Open-Sans",
+            "Source": "nerd-fonts",
+            "Info": "",
+            "Updated": "2022-04-09T22:53:23.4408272+02:00",
+            "Version": "nightly-20220409"
+        },
+        {
+            "Name": "poetry",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-24T16:53:31.451459+02:00",
+            "Version": "1.1.13"
+        },
+        {
+            "Name": "postman",
+            "Source": "extras",
+            "Info": "",
+            "Updated": "2022-05-18T18:54:46.8871506+02:00",
+            "Version": "9.19.0"
+        },
+        {
+            "Name": "powertoys",
+            "Source": "extras",
+            "Info": "",
+            "Updated": "2022-05-19T05:45:52.4271475+02:00",
+            "Version": "0.58.0"
+        },
+        {
+            "Name": "pshazz",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-09T20:56:02.1365028+02:00",
+            "Version": "0.2022.03.09"
+        },
+        {
+            "Name": "pwsh",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-05-19T05:46:29.6047428+02:00",
+            "Version": "7.2.4"
+        },
+        {
+            "Name": "python",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-07-03T16:59:20.7090986+02:00",
+            "Version": "3.10.5"
+        },
+        {
+            "Name": "Raleway",
+            "Source": "nerd-fonts",
+            "Info": "",
+            "Updated": "2022-04-09T22:53:24.2118273+02:00",
+            "Version": "nightly-20220409"
+        },
+        {
+            "Name": "sed",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-09T21:27:53.6471878+02:00",
+            "Version": "4.8"
+        },
+        {
+            "Name": "spotify",
+            "Source": "extras",
+            "Info": "",
+            "Updated": "2022-07-23T12:50:26.1405881+02:00",
+            "Version": "1.1.90.859.gf1bb1e36"
+        },
+        {
+            "Name": "starship",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-06-06T17:02:21.2409492+02:00",
+            "Version": "1.7.1"
+        },
+        {
+            "Name": "sudo",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-03-12T19:18:16.399266+01:00",
+            "Version": "0.2020.01.26"
+        },
+        {
+            "Name": "telnet",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-02-27T08:53:57.2331084+01:00",
+            "Version": "msys-inetutils-1.7-1"
+        },
+        {
+            "Name": "terraform",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-06-06T17:02:24.2719711+02:00",
+            "Version": "1.2.2"
+        },
+        {
+            "Name": "touch",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-09T21:41:36.6011691+02:00",
+            "Version": "0.2018.07.25"
+        },
+        {
+            "Name": "Ubuntu-NF",
+            "Source": "nerd-fonts",
+            "Info": "",
+            "Updated": "2022-04-09T22:53:47.1024924+02:00",
+            "Version": "2.1.0"
+        },
+        {
+            "Name": "vlc",
+            "Source": "extras",
+            "Info": "",
+            "Updated": "2022-04-21T21:59:39.0338912+02:00",
+            "Version": "3.0.17.4"
+        },
+        {
+            "Name": "vscode",
+            "Source": "extras",
+            "Info": "",
+            "Updated": "2022-05-19T05:46:12.0619682+02:00",
+            "Version": "1.67.2"
+        },
+        {
+            "Name": "wget",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-03T13:17:00.3243843+02:00",
+            "Version": "1.21.3"
+        },
+        {
+            "Name": "which",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-03-12T18:43:31.608954+01:00",
+            "Version": "2.20"
+        },
+        {
+            "Name": "windows-terminal",
+            "Source": "extras",
+            "Info": "",
+            "Updated": "2022-04-24T06:28:56.6692128+02:00",
+            "Version": "1.12.10982.0"
+        },
+        {
+            "Name": "wttop",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-04-24T06:10:40.7163021+02:00",
+            "Version": "1.1"
+        },
+        {
+            "Name": "yarn",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2022-05-15T17:59:49.8729736+02:00",
+            "Version": "1.22.19"
+        },
+    ],
+    "buckets": [
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2022-07-23T10:28:54+02:00",
+            "Manifests": 1615
+        },
+        {
+            "Name": "java",
+            "Source": "https://github.com/ScoopInstaller/Java",
+            "Updated": "2022-07-22T23:17:40+02:00",
+            "Manifests": 225
+        },
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": "2022-07-23T10:31:23+02:00",
+            "Manifests": 1062
+        },
+        {
+            "Name": "nerd-fonts",
+            "Source": "https://github.com/matthewjberger/scoop-nerd-fonts",
+            "Updated": "2022-07-22T03:15:59+02:00",
+            "Manifests": 202
+        }
+    ]
+}
