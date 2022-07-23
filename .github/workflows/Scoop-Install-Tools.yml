@@ -1,0 +1,27 @@
+name: Scoop-Install-Tools
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+    paths:
+    - Windows
+  pull_request:
+    branches: [ "main" ]
+    paths:
+    - Windows
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Tools with Scoop
+        run: |
+          ./Windows/Scoop-Install-Tools.ps1
+          scoop list
