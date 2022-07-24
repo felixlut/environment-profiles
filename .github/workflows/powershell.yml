@@ -12,8 +12,14 @@ name: PSScriptAnalyzer
 on:
   push:
     branches: [ "main" ]
+    paths:
+    - Windows
+    
   pull_request:
     branches: [ "main" ]
+    paths:
+    - Windows
+    
   workflow_dispatch:
     
 permissions:
