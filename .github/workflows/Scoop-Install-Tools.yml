@@ -20,6 +20,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      
+      - name: Install Scoop
+        run: iwr -useb get.scoop.sh | iex
 
       - name: Install Tools with Scoop
         run: |
