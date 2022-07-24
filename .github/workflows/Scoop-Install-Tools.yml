@@ -26,7 +26,7 @@ jobs:
         run: | 
           ls
           iex "& {$(irm get.scoop.sh)} -RunAsAdmin"
-          Scoop-Install-Tools.ps1
+          ./Scoop-Install-Tools.ps1
           # scoop import "Scoop-Tools.json"
           scoop list
           
