@@ -24,6 +24,7 @@ jobs:
       - name: Install Scoop
         working-directory: ./Windows
         run: | 
+          ls
           iex "& {$(irm get.scoop.sh)} -RunAsAdmin"
           Scoop-Install-Tools.ps1
           # scoop import "Scoop-Tools.json"
